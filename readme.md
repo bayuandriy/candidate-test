@@ -16,7 +16,14 @@
 #### Simply Supported Analysis
 ![Bending Moment Plot](images/bending-moment-plot.png)
 ![Shear Force Plot](images/shear-force-plot.png)
+![Deflection Plot](images/deflection-plot.png)
 
 #### Two Span Unequal Analysis
 ![Bending Moment Plot](images/two-span-unequal-bending-plot.png)
 ![Shear Force Plot](images/two-span-unequal-shear-plot.png)
+![Deflection Plot](images/two-span-unequal-deflection-plot.png)
+
+##### When L1 = L2
+![Bending Moment Plot](images/two-span-equal-bending-plot.png)
+![Shear Force Plot](images/two-span-equal-shear-plot.png)
+![Deflection Plot](images/two-span-equal-deflection-plot.png)
