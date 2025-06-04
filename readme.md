@@ -11,6 +11,7 @@
 - [ ] CRUD Projects
 - [ ] CRUD Building Part inside Projects
 - [ ] User only sees their own projects and parts
+
 Admin Only:
 - [ ] Admin can access all projects and parts
 - [ ] Analytical Dashboard
