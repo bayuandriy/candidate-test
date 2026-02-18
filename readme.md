@@ -127,7 +127,6 @@ A design reference is available in Figma:
 
 **Additional Improvements**
 
-- Implementing
 - Any meaningful enhancements will be considered positively
 
 ## 6. Submission
