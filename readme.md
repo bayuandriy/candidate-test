@@ -15,7 +15,7 @@
 - [ ] CRUD CLT Layups (nested under Supplier)
 - [ ] CRUD CLT Layers (nested under Layup)
 
-The API structure should properly reflect the hierarchy:
+The structure should properly reflect the hierarchy:
 Supplier → Layups → Layers
 
 ### Import / Export (Main Criteria)
