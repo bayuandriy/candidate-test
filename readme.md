@@ -89,22 +89,8 @@ Expected behavior:
 
 This may be implemented as:
 
-- A modal,
-- A dedicated conflict resolution page, or
-
----
-
-### Additional Bonus Points
-
-- Return a detailed import summary:
-    - Layups created
-    - Layups matched
-    - Layers created
-    - Layers updated
-    - Layers skipped
-    - Conflicts detected
-- Support a `conflict_strategy` parameter on the import endpoint
-
+- A modal, or
+- A dedicated conflict resolution page.
 
 ## 3. Design Reference
 
